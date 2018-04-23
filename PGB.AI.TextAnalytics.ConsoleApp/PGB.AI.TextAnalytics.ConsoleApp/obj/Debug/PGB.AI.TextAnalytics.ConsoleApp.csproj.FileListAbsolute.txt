@@ -1,0 +1,15 @@
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\PGB.AI.TextAnalytics.ConsoleApp.exe.config
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\PGB.AI.TextAnalytics.ConsoleApp.exe
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\PGB.AI.TextAnalytics.ConsoleApp.pdb
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Azure.CognitiveServices.Language.dll
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Azure.CognitiveServices.Language.xml
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.xml
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\obj\Debug\PGB.AI.TextAnalytics.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\obj\Debug\PGB.AI.TextAnalytics.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\obj\Debug\PGB.AI.TextAnalytics.ConsoleApp.exe
+C:\demo\03AIML\PGB.AI.TextAnalytics.ConsoleApp\PGB.AI.TextAnalytics.ConsoleApp\obj\Debug\PGB.AI.TextAnalytics.ConsoleApp.pdb
